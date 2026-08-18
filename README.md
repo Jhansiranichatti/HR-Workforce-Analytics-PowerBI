@@ -47,7 +47,7 @@ The Workforce Overview dashboard provides a high-level summary of the organizati
 * Workforce Status Distribution
 * Key Workforce KPIs
 
-screenshots/workforce-overview.png
+![Workforce Overview](screenshots/workforce-overview.png)
 
 ---
 
@@ -64,7 +64,7 @@ The Workforce Management Insights dashboard provides a deeper analysis of workfo
 * Workforce composition
 * Interactive filtering and visual analysis
 
-Screenshots/workforce-management-insights.png.JPG
+![Workforce Management Insights](screenshots/workforce-management-insights.png)
 
 ---
 
