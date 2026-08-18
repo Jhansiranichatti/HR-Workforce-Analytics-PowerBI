@@ -64,7 +64,7 @@ The Workforce Management Insights dashboard provides a deeper analysis of workfo
 * Workforce composition
 * Interactive filtering and visual analysis
 
-![Workforce Management Insights](screenshots/workforce-management-insights.png)
+Screenshots/workforce-management-insights.png.JPG
 
 ---
 
