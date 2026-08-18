@@ -47,7 +47,7 @@ The Workforce Overview dashboard provides a high-level summary of the organizati
 * Workforce Status Distribution
 * Key Workforce KPIs
 
-![Workforce Overview](screenshots/workforce-overview.png)
+screenshots/workforce-overview.png
 
 ---
 
